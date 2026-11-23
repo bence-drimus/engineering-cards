@@ -46,6 +46,7 @@ Each day a job writes the cards for the first unticked topic and ticks it in the
 - [ ] System design: caching strategies
 - [ ] Next.js: image and font optimisation
 - [ ] Security: XSS and output encoding
+- [ ] API: security best practices
 - [ ] Node.js: streams and backpressure
 - [ ] API: offset vs cursor pagination
 - [ ] React: controlled vs uncontrolled inputs
@@ -64,6 +65,7 @@ Each day a job writes the cards for the first unticked topic and ticks it in the
 - [ ] Go: generics
 - [ ] Databases: normalisation vs denormalisation
 - [ ] Networking: HTTP/1.1 vs HTTP/2 vs HTTP/3
+- [ ] API: performance best practices
 - [ ] TypeScript: unknown vs any vs never
 - [ ] System design: message queues and async work
 - [ ] Security: OAuth 2.0 and OpenID Connect
