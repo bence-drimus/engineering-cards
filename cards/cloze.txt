@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#deck:Engineering
+#notetype:Cloze
+#guid column:1
+#tags column:4
+eng:cloze:cia-triad/set	The CIA triad of security goals: {{c1::confidentiality}}, {{c2::integrity}} and {{c3::availability}}.	A quick check that a threat model covers more than data leaks.	lens::security topic::cia-triad
