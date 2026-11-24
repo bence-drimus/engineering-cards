@@ -5,3 +5,4 @@
 #guid column:1
 #tags column:4
 eng:cloze:cia-triad/set	The CIA triad of security goals: {{c1::confidentiality}}, {{c2::integrity}} and {{c3::availability}}.	A quick check that a threat model covers more than data leaks.	lens::security topic::cia-triad
+eng:cloze:next-js-app-router-and-file-based-routing/special-files	App Router special files: {{c1::<code>page.js</code>}} makes a segment routable, {{c2::<code>layout.js</code>}} wraps it in shared UI that persists across navigation, {{c3::<code>loading.js</code>}} adds a Suspense fallback, {{c4::<code>error.js</code>}} adds an error boundary and {{c5::<code>route.js</code>}} defines an HTTP handler.	Folders named <code>(group)</code> organise routes without changing the URL, and a <code>_folder</code> is left out of routing.	lens::operability lens::performance lens::reliability topic::next-js-app-router-and-file-based-routing
