@@ -3,7 +3,7 @@
 Each day a job writes the cards for the first unticked topic and ticks it in the same commit. Reorder, add or remove lines to steer it, one topic per line as `- [ ] Category: topic`. Make your edits on the `new-cards` branch and commit them, so they don't clash with the job's ticks. The job skips a day while that branch has uncommitted changes.
 
 - [x] Next.js: App Router and file-based routing
-- [ ] Go: goroutines and the scheduler
+- [x] Go: goroutines and the scheduler
 - [ ] React: rendering and reconciliation
 - [ ] Go: channels, buffered and unbuffered
 - [ ] Next.js: Server Components vs Client Components
