@@ -1,0 +1,108 @@
+# Curriculum
+
+Each day a job writes the cards for the first unticked topic and ticks it in the same commit. Reorder, add or remove lines to steer it, one topic per line as `- [ ] Category: topic`. Make your edits on the `new-cards` branch and commit them, so they don't clash with the job's ticks. The job skips a day while that branch has uncommitted changes.
+
+- [x] Next.js: App Router and file-based routing
+- [x] Go: goroutines and the scheduler
+- [ ] React: rendering and reconciliation
+- [ ] Go: channels, buffered and unbuffered
+- [ ] Next.js: Server Components vs Client Components
+- [ ] Go: select and channel timeouts
+- [ ] React: hooks and the rules of hooks
+- [ ] Go: mutexes and read-write mutexes
+- [ ] Next.js: data fetching, caching and revalidation
+- [ ] Go: context for cancellation and deadlines
+- [ ] React: useEffect and its dependency array
+- [ ] Go: worker pools
+- [ ] Next.js: rendering strategies (SSR, SSG, ISR and streaming)
+- [ ] Go: WaitGroup and errgroup
+- [ ] React: state, props and lifting state up
+- [ ] Go: data races and the race detector
+- [ ] Next.js: Server Actions
+- [ ] Go: pipelines, fan-out and fan-in
+- [ ] React: keys and list rendering
+- [ ] Security: the OWASP Top 10
+- [ ] Next.js: middleware
+- [ ] API: resource design and HTTP methods
+- [ ] Go: interfaces and implicit satisfaction
+- [ ] React: memoisation with useMemo, useCallback and memo
+- [ ] Networking: TCP vs UDP
+- [ ] Next.js: route handlers
+- [ ] Databases: indexes and B-trees
+- [ ] TypeScript: structural typing
+- [ ] React: Suspense and lazy loading
+- [ ] System design: horizontal vs vertical scaling
+- [ ] Go: errors, wrapping and sentinel errors
+- [ ] Security: password hashing
+- [ ] JavaScript: the event loop
+- [ ] Next.js: hydration and hydration errors
+- [ ] API: idempotency and idempotency keys
+- [ ] DevOps: containers vs virtual machines
+- [ ] React: context and prop drilling
+- [ ] Networking: how DNS resolution works
+- [ ] Go: slices, arrays and capacity
+- [ ] Databases: transactions and ACID
+- [ ] TypeScript: generics
+- [ ] System design: caching strategies
+- [ ] Next.js: image and font optimisation
+- [ ] Security: XSS and output encoding
+- [ ] API: security best practices
+- [ ] Node.js: streams and backpressure
+- [ ] API: offset vs cursor pagination
+- [ ] React: controlled vs uncontrolled inputs
+- [ ] DevOps: CI/CD pipelines
+- [ ] Go: defer, panic and recover
+- [ ] Networking: the TLS handshake
+- [ ] Databases: isolation levels
+- [ ] TypeScript: union types and narrowing
+- [ ] System design: load balancing
+- [ ] Security: SQL injection and parameterised queries
+- [ ] Next.js: static and dynamic routes
+- [ ] API: rate limiting algorithms
+- [ ] JavaScript: promises and async/await
+- [ ] DevOps: blue-green and canary deploys
+- [ ] React: custom hooks
+- [ ] Go: generics
+- [ ] Databases: normalisation vs denormalisation
+- [ ] Networking: HTTP/1.1 vs HTTP/2 vs HTTP/3
+- [ ] API: performance best practices
+- [ ] TypeScript: unknown vs any vs never
+- [ ] System design: message queues and async work
+- [ ] Security: OAuth 2.0 and OpenID Connect
+- [ ] API: versioning
+- [ ] Node.js: worker threads vs the cluster module
+- [ ] DevOps: infrastructure as code
+- [ ] React: error boundaries
+- [ ] Databases: replication and read replicas
+- [ ] Go: atomics and the memory model
+- [ ] Networking: CORS
+- [ ] System design: the CAP theorem
+- [ ] Security: secrets management
+- [ ] TypeScript: discriminated unions
+- [ ] API: REST vs GraphQL vs gRPC
+- [ ] Next.js: metadata and SEO
+- [ ] DevOps: logs, metrics and traces
+- [ ] JavaScript: closures and scope
+- [ ] Databases: sharding and partitioning
+- [ ] Go: escape analysis and the garbage collector
+- [ ] Security: Content Security Policy
+- [ ] Networking: NAT and private address ranges
+- [ ] System design: consistent hashing
+- [ ] React: concurrent rendering and transitions
+- [ ] API: error responses and status codes
+- [ ] DevOps: health checks, liveness and readiness
+- [ ] TypeScript: utility types
+- [ ] Databases: query plans and EXPLAIN
+- [ ] Node.js: CommonJS vs ES modules
+- [ ] Security: TLS certificates and the chain of trust
+- [ ] System design: at-least-once delivery and idempotent consumers
+- [ ] Go: sync.Once and sync.Pool
+- [ ] Networking: WebSockets vs server-sent events vs long polling
+- [ ] DevOps: backups and restore testing
+- [ ] Databases: connection pooling
+- [ ] API: API keys vs bearer tokens vs mTLS
+- [ ] TypeScript: type guards and assertion functions
+- [ ] System design: retries, backoff and circuit breakers
+- [ ] JavaScript: this, binding and arrow functions
+- [ ] Security: SSRF
+- [ ] DevOps: zero-downtime database migrations
